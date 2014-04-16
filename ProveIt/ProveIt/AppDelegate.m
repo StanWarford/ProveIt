@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 Pepperdine University. All rights reserved.
 //
 //Testing commits and pushes: Adam Inglehart
+// Adam Inglehart testing comments
 #import "AppDelegate.h"
 
 @implementation AppDelegate
